@@ -41,6 +41,13 @@ O mapa é gerado proceduralmente, com diferentes tipos de terrenos que afetam o 
 
 ## 🕹️ Como executar o jogo
 
+### Executar no Colab
+
+Para abrir e executar este projeto diretamente no Google Colab, clique no botão abaixo:
+[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bbeltrame01/Ghostbusters/blob/main/main.ipynb)
+
+### Executar localmente
+
 1. Certifique-se de ter o Python 3 instalado em sua máquina.
 2. Instale a biblioteca **Pygame**:
    ```bash
